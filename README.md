@@ -28,7 +28,6 @@ An IoT-based Smart Surveillance System built on the ESP32 platform. The system u
 | Component | Purpose |
 |---|---|
 | ESP32 | Main microcontroller with built-in Wi-Fi |
-| Camera Module | Visual monitoring and capture |
 | PIR / Motion Sensor | Detects movement in the environment |
 | Power Supply | Regulated supply for ESP32 and peripherals |
 
